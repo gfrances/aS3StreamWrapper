@@ -39,8 +39,8 @@
  * @author tom@punkave.com Tom Boutell of P'unk Avenue
  */
  
-require dirname(__FILE__) . '/../vendor/aws-sdk/sdk.class.php';
-require dirname(__FILE__) . '/aS3StreamWrapperMimeTypes.class.php';
+require_once dirname(__FILE__) . '/../../../aws-sdk/sdk.class.php';
+require_once dirname(__FILE__) . '/aS3StreamWrapperMimeTypes.class.php';
 
 class aS3StreamWrapper
 {
