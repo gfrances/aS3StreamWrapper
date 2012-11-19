@@ -2,7 +2,7 @@
     "name": "gfrances/as3streamwrapper",
     "type": "library",
     "description": "Symfony2 port of the P'unk Avenue as3streamwrapper (https://github.com/punkave/aS3StreamWrapper)",
-    "keywords": ["log","logging"],
+    "keywords": ["AWS","S3"],
     "homepage": "https://github.com/gfrances/aS3StreamWrapper",
     "require": {
         "php": ">=5.3.0"
