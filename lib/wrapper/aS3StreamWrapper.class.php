@@ -38,8 +38,8 @@
  * @license BSD
  * @author tom@punkave.com Tom Boutell of P'unk Avenue
  */
- 
-require_once dirname(__FILE__) . '../../../../aws-sdk/sdk.class.php';
+
+require_once dirname(__FILE__) . '/../../../../amazonwebservices/aws-sdk-for-php/sdk.class.php';
 require_once dirname(__FILE__) . '/aS3StreamWrapperMimeTypes.class.php';
 
 class aS3StreamWrapper
